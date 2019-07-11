@@ -349,7 +349,7 @@ a {
 <br><br><center>--AD SPOT--</center><br>
     <div id="active"><?php if(isset($_SESSION['cashout'])){echo $_SESSION['cashout'];} else {echo $claimMsg;} ?></div>
 	
-    <div id="balance">BALANCE<br><span id="bprint">0.00000000 BTC</span></div>
+    <div id="balance">BALANCE<br><span id="bprint">1.00000000 BTC</span></div>
         <div id="claimCont"><h3>Faucet+Dice is a free game where you can earn real bitcoins!</h3> 
 		Just enter your bitcoin address below, fill out the captcha, and press Play. You can start a new game every 30 minutes. 
 		You can withdrawal immediately to FaucetBox. 
