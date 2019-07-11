@@ -20,5 +20,5 @@ You will need to sign up with FaucetBox and Google's reCaptcha to obtain API Key
 
 
 If you have found this script useful please consider buying me a pint ;)
-BTC: 1NPrfWgJfkANmd1jt88A141PjhiarT8d9U
+BTC: 15SzRoBgemEN8EoQ7Qvx6bMZz6rkYzrfUw
 
